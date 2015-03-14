@@ -1,0 +1,1 @@
+This project consists of an addition that nearly doubles the number of classes in eAthena. It includes the addition of 2-3 classes and even 4th classes for all base classes from novice to ninja.
